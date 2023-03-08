@@ -1,7 +1,9 @@
 # hack-teamB-2023-spring
 使用しているライブラリ
 - フロントエンド
-    -   vue.js
+    - vue.js
+- バックエンド
+    - python(フレームワークDjango)
 
 ### DB
 ユーザーログイン
